@@ -1,1 +1,1 @@
-# mysamplesqlpackage
+# Mysample SQL Npm Package
